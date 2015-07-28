@@ -45,6 +45,7 @@
 		2F34A6BB1B66FD38000F1778 /* PassingThoughtsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PassingThoughtsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F34A6C01B66FD38000F1778 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F34A6C11B66FD38000F1778 /* PassingThoughtsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PassingThoughtsTests.m; sourceTree = "<group>"; };
+		2F34A6CB1B67068B000F1778 /* PassingThoughts 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "PassingThoughts 2.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -441,9 +442,10 @@
 		2F34A6A61B66FD38000F1778 /* PassingThoughts.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				2F34A6CB1B67068B000F1778 /* PassingThoughts 2.xcdatamodel */,
 				2F34A6A71B66FD38000F1778 /* PassingThoughts.xcdatamodel */,
 			);
-			currentVersion = 2F34A6A71B66FD38000F1778 /* PassingThoughts.xcdatamodel */;
+			currentVersion = 2F34A6CB1B67068B000F1778 /* PassingThoughts 2.xcdatamodel */;
 			path = PassingThoughts.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
